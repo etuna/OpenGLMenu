@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\etuna\source\repos\openglmenu\openglmenu\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\openglmenu\openglmenu\mat.h(764): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\openglmenu\openglmenu\mat.h(765): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\openglmenu\openglmenu\mat.h(766): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\openglmenu\openglmenu\mat.h(787): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\openglmenu\openglmenu\mat.h(789): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\openglmenu\openglmenu\mat.h(792): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\openglmenu\openglmenu\mat.h(809): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\openglmenu\openglmenu\main.cpp(177): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  OpenGLMenu.vcxproj -> C:\Users\etuna\source\repos\OpenGLMenu\Debug\OpenGLMenu.exe
